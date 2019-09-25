@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="2" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2019-09-18 14:16:00Z" end-time="2019-09-18 14:16:00Z" duration="0.084569">
+  <test-suite type="TestSuite" id="1000" name="RWM-P0-C00220868" fullname="RWM-P0-C00220868" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-09-18 14:16:00Z" end-time="2019-09-18 14:16:00Z" duration="0.084569" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1004" name="Tests.dll" fullname="C:/Projects/RWM-P0-C00220868/Library/ScriptAssemblies/Tests.dll" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-09-18 14:16:00Z" end-time="2019-09-18 14:16:00Z" duration="0.069215" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="55208" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+      </properties>
+      <test-suite type="TestSuite" id="1005" name="Tests" fullname="Tests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-09-18 14:16:00Z" end-time="2019-09-18 14:16:00Z" duration="0.066204" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestFixture" id="1001" name="Modulo3Test" fullname="Tests.Modulo3Test" classname="Tests.Modulo3Test" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-09-18 14:16:00Z" end-time="2019-09-18 14:16:00Z" duration="0.049825" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-case id="1003" name="Modulo3Complex" fullname="Tests.Modulo3Test.Modulo3Complex" methodname="Modulo3Complex" classname="Tests.Modulo3Test" runstate="Runnable" seed="1508931494" result="Passed" start-time="2019-09-18 14:16:00Z" end-time="2019-09-18 14:16:00Z" duration="0.015081" asserts="0">
+            <properties />
+          </test-case>
+          <test-case id="1002" name="Modulo3Simple" fullname="Tests.Modulo3Test.Modulo3Simple" methodname="Modulo3Simple" classname="Tests.Modulo3Test" runstate="Runnable" seed="2146565452" result="Passed" start-time="2019-09-18 14:16:00Z" end-time="2019-09-18 14:16:00Z" duration="0.000425" asserts="0">
+            <properties />
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
